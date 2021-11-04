@@ -15,9 +15,8 @@
 			<nav>
                 <ul>
 					<li><a href="index.php">Inicio</a></li>
-					<li><a href="cuenta.php">Crea tu cuenta</a></li>
-					<li><a href="curriculum.php">Solicitud</a></li>
-					<li><a href="pedido.php">Haz un pedido</a></li>
+					<li><a href="empleado.php">Empleado</a></li>
+					<li><a href="articulo.php">Articulo</a></li>
 				</ul>
 			</nav>
 		</div>
